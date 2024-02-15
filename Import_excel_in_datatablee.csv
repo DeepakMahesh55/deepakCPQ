@@ -1,0 +1,9 @@
+_start meta data,,,
+Name ,Age,Qualification,Percentage
+String,Integer,String,Float
+,,,
+_end meta data,,,
+Mahesh,22,Btech,75
+Gautam,24,MBA,78
+Pruthvi,22,Btech,65
+Venkatesh,24,Mtech,68
